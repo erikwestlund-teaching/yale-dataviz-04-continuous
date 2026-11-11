@@ -1,4 +1,4 @@
-# AI-Augmented Analytics for Data Visualization: Module 4: Continuous Data
+# AI-Augmented Analytics for Data Visualization: Module 6: Continuous Data
 
 Prompts are on the course page.
 
