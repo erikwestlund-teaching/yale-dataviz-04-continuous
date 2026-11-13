@@ -4,12 +4,16 @@ title: "Continuous Data"
 
 ## Task
 
-Explore adult systolic blood pressure and dietary energy in the NHANES file. Compare histograms, density plots, boxplots, and violin plots. Inspect outliers. Use dietary energy for quantiles, Q–Q plots, and log transformations.
+Explore distributions in the NHANES file with histograms, density plots, box plots, violin plots, and Q–Q plots. Then compute income quantiles in the infant mortality file. The steps are in the module guide.
 
 ```{r}
+#| message: false
 library(readr)
 library(dplyr)
+library(tidyr)
+library(forcats)
 library(ggplot2)
+library(scales)
 ```
 
 ## Analysis
